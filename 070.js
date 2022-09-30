@@ -42,5 +42,3 @@ let b = [
 ];
 
 console.log(answer(a, b));
-
-// 
